@@ -31,5 +31,3 @@ Triology Education Services assigned this homework. Credit to Jake O’Toole for
 # Challenges
 The biggest challenge was sorting through the front-end that was predeveloped to find the right routing.
 
-# License
-MIT
